@@ -168,6 +168,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ngnam",
+      "name": "Nam Nguyen VN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11207864?v=4",
+      "profile": "https://nam-trendy.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 8
