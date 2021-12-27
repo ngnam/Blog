@@ -1,0 +1,16 @@
+.header__logo {
+  background: transparent url('./logo.png') no-repeat left center;
+  height: 100px;
+  padding-left: 110px;
+  background-size: contain;
+  display: flex;
+  flex-direction: column;
+  color: #F8B615;
+}
+
+.header__logo > small {
+  font-style: italic;
+  font-size: 0.8em;
+  opacity: .9;
+}
+

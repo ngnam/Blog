@@ -15,7 +15,7 @@ export default defineMessages({
   startProjectMessage: {
     id: `${scope}.start_project.message`,
     defaultMessage:
-      'A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices',
+      'Nếu bạn không học cách làm mới bản thân, tưới nước cho bản thân, cho cuộc sống mỗi ngày, thì cuộc sống sẽ trở nên thật nhàm chán, và bạn sẽ lại càng phải bám víu vào hình tượng người yêu tương lai nào đó, mong mỏi người đấy đến sẽ làm cuộc sống của bạn bớt chán đi.',
   },
   trymeHeader: {
     id: `${scope}.tryme.header`,

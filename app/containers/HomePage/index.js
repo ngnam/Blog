@@ -61,10 +61,7 @@ export function HomePage({
     <article>
       <Helmet>
         <title>Home Page</title>
-        <meta
-          name="description"
-          content="A React.js Boilerplate application homepage"
-        />
+        <meta name="description" content="A My Blogs" />
       </Helmet>
       <div>
         <CenteredSection>
@@ -88,7 +85,7 @@ export function HomePage({
               <Input
                 id="username"
                 type="text"
-                placeholder="mxstbr"
+                placeholder="ngnam"
                 value={username}
                 onChange={onChangeUsername}
               />
